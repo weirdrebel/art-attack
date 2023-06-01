@@ -20,9 +20,11 @@ This project provides users with an easy-to-use and fun way to draw images virtu
 
 - Python
 - OpenCV
-- tkinter
-- sklearn
-- scipy
+- MediaPipe
+- Tkinter
+- Sklearn
+- Scipy
+- Numpy
 
 ## Installation
 
